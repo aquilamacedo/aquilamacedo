@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align='center'>
+    <img src='https://www.kindpng.com/picc/b/704-7041009_hacker-png.png' height='128px' weidth'128px'><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;I%27m+a+Computer+Science+student+at+UnB">
+</div>
 
-<!--
-**aquilamacedo/aquilamacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+  
+  ### About Me
+ 
+```js
+   const Me = {
+            Skills: "Penetration Tester",
+        Main Langs: "Python, C++, C",
+             Tools: "Latex, HTML, CSS, Jekyll"
+              Tech: "Git, Docker",
+                SO: "Kubuntu",
+    };
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/aquilamacedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aquilamacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilamacedo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
