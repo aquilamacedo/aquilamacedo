@@ -11,7 +11,7 @@
    const Me = {
             Skills: "Penetration Tester",
         Main Langs: "Python, C++, C",
-             Tools: "Latex, HTML, CSS, Jekyll"
+             Tools: "Latex, HTML, CSS"
               Tech: "Git, Docker",
                 SO: "Kubuntu",
     };
