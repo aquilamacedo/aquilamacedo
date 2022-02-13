@@ -20,12 +20,10 @@
 
 <div align="center">
   <a href="https://github.com/aquilamacedo">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aquilamacedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilamacedo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=aquilamacedo&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquilamacedo&layout=compact&langs_count=7&theme=react&bg_color=0D1117"/>
 </div>
     
-<div align='center'>
-
-<img align="middle" src="https://activity-graph.herokuapp.com/graph?username=aquilamacedo&theme=github&bg_color=20232a&hide_border=true" width="60%"/>
+<a href="https://github.com/aquilamacedo/aquilamacedo.git"><img alt="AquilaActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=aquilamacedo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </div>
