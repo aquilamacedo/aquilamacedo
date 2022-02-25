@@ -12,7 +12,7 @@
             Skills: "Penetration Tester",
         Main Langs: "Python, C++, C",
              Tools: "Latex, HTML, CSS"
-              Tech: "Git, Docker",
+              Tech: "Git",
                 SO: "Kubuntu",
     };
 
