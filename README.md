@@ -1,9 +1,3 @@
-<div align='center'>
-    <img src='https://www.kindpng.com/picc/b/704-7041009_hacker-png.png' height='128px' weidth'128px'><br>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23B836F7&center=true&vCenter=true&multiline=true&width=500&height=65&lines=Hello+Friend!;I%27m+a+Computer+Science+student+at+UnB">
-</div>
-
-</div>
   
   ### About Me
  
